@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/todo-practice/static/css/main.93f0bc83.css",
+    "main.js": "/todo-practice/static/js/main.fcd53335.js",
+    "static/media/bg.jpg": "/todo-practice/static/media/bg.cd80bc86024aa59da084.jpg",
+    "static/media/Rubik-VariableFont_wght.ttf": "/todo-practice/static/media/Rubik-VariableFont_wght.d3c04283940221abf09a.ttf",
+    "static/media/Cinzel-VariableFont_wght.ttf": "/todo-practice/static/media/Cinzel-VariableFont_wght.7aeb3adcf73e49e8a979.ttf",
+    "index.html": "/todo-practice/index.html",
+    "main.93f0bc83.css.map": "/todo-practice/static/css/main.93f0bc83.css.map",
+    "main.fcd53335.js.map": "/todo-practice/static/js/main.fcd53335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93f0bc83.css",
+    "static/js/main.fcd53335.js"
+  ]
+}
